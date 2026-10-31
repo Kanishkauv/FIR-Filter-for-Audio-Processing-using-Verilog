@@ -43,8 +43,6 @@ docs/           Block diagram, results, waveforms
 ## Author
 
 Kanishka U V, M.Tech VLSI Design, VIT Vellore
-Vaishnav S Nambiar, M.Tech VLSI Design, VIT Vellore
-Aarcha M S, M.Tech VLSI Design, VIT Vellore
 
 Vaishnav S Nambiar, M.Tech VLSI Design, VIT Vellore
 
